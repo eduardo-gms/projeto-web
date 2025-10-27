@@ -1,0 +1,7 @@
+# .dockerignore
+
+# Ignora a pasta de módulos do host
+node_modules
+
+# Ignora logs e arquivos de debug
+npm-debug.log
